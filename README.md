@@ -1,4 +1,4 @@
-For the Fastfetch program, a custom layout I made based on Cyberpunk: Edgerunners
+For the Fastfetch program, a custom layout I made based on Cyberpunk: Edgerunners <br/>
 Note: Requires using a terminal that can handle graphic input like Konsole, iTerm2, or Kitty Terminal
 
 <h2>Preview</h2>
